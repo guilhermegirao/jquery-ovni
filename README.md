@@ -1,5 +1,5 @@
 # jQuery Ovni Plugin
-A [jQuery](http://jquery.com) Plugin to make objects float on the page.
+A [jQuery](http://jquery.com) plugin to make objects float on the page.
 
 ## Code Example
 
